@@ -26,28 +26,38 @@ Awareness Section:
 
 The website can feature information and guidelines on waste segregation, recycling tips, and the environmental impact of waste.
 Educational quizzes or challenges can be included to engage students in learning about proper waste disposal.
+
 **Technologies and Programming Languages Involved:**
+
 **Front-End Development:**
 
 **HTML5/CSS3:** To design and build the web pages for the waste management system.
 **JavaScript:** For client-side functionality like form submission, interactive maps, and real-time updates.
 **Bootstrap or Tailwind CSS:** For a responsive design that works on both mobile and desktop browsers.
+
 **Back-End Development:**
 
 **Node.js + Express.js (JavaScript):** For building the server-side logic that handles waste report submissions, notifications, and user management.
+
 **RESTful API:** For enabling interaction between the front-end and back-end, especially when handling data asynchronously (e.g., submitting a report, updating the bin status).
+
 **Database Management:**
 
 **MongoDB (NoSQL):** To store user-submitted data like bin reports, locations, waste collection status, and analytics.
+
 **MySQL (SQL):** Alternatively, for relational data storage such as user roles, report history, and campus locations.
+
 **Location Services (Mapping):**
 
 **Google Maps API:** To display the locations of reported full bins and help waste management staff navigate to the exact bin locations.
 Users can mark bin locations or search for nearby waste bins using the map feature.
+
 **Real-Time Notifications:**
 
 **Socket.IO:** For enabling real-time updates so that waste management staff can instantly be notified when a bin is reported as full.
+
 **Email/Push Notifications:** Integrate email notifications to inform the waste collection team about full bins or scheduled reports.
+
 **Data Visualization:**
 
 **Chart.js or D3.js (JavaScript):** For visualizing waste management data in the form of bar graphs, pie charts, or heat maps showing high waste areas.
@@ -55,27 +65,34 @@ The admin dashboard will provide insights based on historical data, making it ea
 Cloud Hosting & Storage:
 
 **AWS EC2/Google Cloud:** For hosting the web application, ensuring scalability and high availability.
+
 **AWS S3/Google Cloud Storage:** For storing images uploaded with waste reports (e.g., photos of overflowing bins).
+
 **System Workflow:**
+
 **User Interaction:**
 
 **Students/Faculty:** When a bin is full, a user logs into the platform and submits a report through a form with details such as location, description, and optional photos.
 The location can be automatically detected using Google Maps or selected manually on the map.
+
 **Admin/Staff Interaction:**
 
 **Dashboard View:** The admin or waste management staff accesses the dashboard to view all submitted reports, which show the bin's status, location, and time of submission.
 Admins can mark a bin as “collected” once it's been cleared, updating its status in real-time.
+
 **Waste Collection Route Optimization:**
 
 Based on waste reports, the admin can analyze high-waste areas and optimize collection schedules and routes to be more efficient.
 **Data Visualization:**
 
 The platform will provide charts and statistics on the volume of waste generated per area, allowing campus authorities to identify areas that need additional bins or more frequent waste collection.
+
 **Notifications:**
 
 Once a waste report is submitted, the waste management team will be notified through real-time alerts (email or push notifications).
 Users may receive a notification when their submitted report has been resolved (i.e., the bin has been collected).
 Features in Detail:
+
 **User Role Management:**
 
 **Admins:** Have full control over the system, can view all reports, and assign tasks.
