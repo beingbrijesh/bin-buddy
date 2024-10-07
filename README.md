@@ -96,8 +96,11 @@ Features in Detail:
 **User Role Management:**
 
 **Admins:** Have full control over the system, can view all reports, and assign tasks.
+
 **Staff:** Can only access waste reports and mark bins as collected.
+
 **Students/Faculty:** Can only submit waste reports.
+
 **Real-Time Reporting:**
 
 The system allows real-time submission of waste reports from anywhere on campus. Reports are geolocated, making it easy to manage waste across a large area.
@@ -107,6 +110,7 @@ The admin dashboard will provide valuable data on waste trends. For example, it 
 Engagement and Awareness:
 
 The website will feature tips on waste segregation and recycling. It can also include quizzes, informational videos, and campus waste reduction challenges to encourage proper waste practices.
+
 **Advantages:**
 Cost-Effective: Since the solution is purely web-based, it doesn’t require expensive physical hardware like sensors or smart bins.
 Data-Driven Decision Making: The system provides valuable insights into waste generation, allowing campus authorities to make data-driven decisions about waste management strategies.
