@@ -32,7 +32,9 @@ Educational quizzes or challenges can be included to engage students in learning
 **Front-End Development:**
 
 **HTML5/CSS3:** To design and build the web pages for the waste management system.
+
 **JavaScript:** For client-side functionality like form submission, interactive maps, and real-time updates.
+
 **Bootstrap or Tailwind CSS:** For a responsive design that works on both mobile and desktop browsers.
 
 **Back-End Development:**
@@ -80,12 +82,9 @@ The location can be automatically detected using Google Maps or selected manuall
 **Dashboard View:** The admin or waste management staff accesses the dashboard to view all submitted reports, which show the bin's status, location, and time of submission.
 Admins can mark a bin as “collected” once it's been cleared, updating its status in real-time.
 
-**Waste Collection Route Optimization:**
+**Waste Collection Route Optimization:** Based on waste reports, the admin can analyze high-waste areas and optimize collection schedules and routes to be more efficient.
 
-Based on waste reports, the admin can analyze high-waste areas and optimize collection schedules and routes to be more efficient.
-**Data Visualization:**
-
-The platform will provide charts and statistics on the volume of waste generated per area, allowing campus authorities to identify areas that need additional bins or more frequent waste collection.
+**Data Visualization:** The platform will provide charts and statistics on the volume of waste generated per area, allowing campus authorities to identify areas that need additional bins or more frequent waste collection.
 
 **Notifications:**
 
@@ -117,4 +116,4 @@ Data-Driven Decision Making: The system provides valuable insights into waste ge
 Scalable: The web-based platform can be easily expanded to cover larger campuses or even entire cities.
 User Engagement: The system actively involves the campus community in managing waste, fostering a sense of responsibility and awareness about environmental sustainability.
 Conclusion:
-This web-based waste management system empowers the campus community to play an active role in managing waste, while providing waste management staff with the tools they need to track, analyze, and optimize waste collection. The platform not only improves waste disposal efficiency but also fosters awareness and responsibility among students and staff
+This web-based waste management system empowers the campus community to play an active role in managing waste, while providing waste management staff with the tools they need to track, analyze, and optimize waste collection. The platform not only improves waste disposal efficiency but also fosters awareness and responsibility among students and staff.
