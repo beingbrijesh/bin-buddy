@@ -1,4 +1,5 @@
 **Project Title:** Smart Waste Tracking and Reporting System for Campus
+
 **Objective:**
 The objective is to create a web-based platform to efficiently manage and track waste collection and disposal on a college campus. The system will enable users to report full bins, track waste generation, analyze waste management data, and raise awareness about proper waste segregation.
 
