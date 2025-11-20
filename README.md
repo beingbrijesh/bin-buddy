@@ -6,7 +6,7 @@ The QR-Based Smart Bin System is a smart waste management solution designed to e
 <h3>🧩 Features</h3>
 <ul>
 <li>QR Code Integration: Unique QR codes assigned to each bin for easy identification.</li>
-<li>User-Friendly Reporting: Scan-and-report system — no need for app installation.</li>
+<li>User-Friendly Reporting: Scan and report system — no need for app installation.</li>
 <li>Real-Time Notifications: Immediate alerts to waste management teams after a report.</li>
 <li>Backend Management: Admin panel to monitor, manage, and track bin statuses.</li>
 <li>Scalable Design: Easy to add new bins and manage multiple locations.</li>
